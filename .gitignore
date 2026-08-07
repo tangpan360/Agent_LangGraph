@@ -16,6 +16,7 @@
 
 # 允许提交的目录
 !notebooks/
+!assets/
 !src/
 !.jupyter/
 
